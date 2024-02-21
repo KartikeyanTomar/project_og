@@ -12,8 +12,9 @@ import ShivArti from "./pages/ShivArti";
 import JagdishArti from "./pages/JagdishArti";
 import KrishnaArti from "./pages/KrishnaArti";
 import SaraswatiArti from "./pages/SaraswatiArti";
-import BhairavArti from "./pages/BhairavArti";
+import BhariavArti from "./pages/BhariavArti";
 import LakshmiArti from "./pages/LakshmiArti";
+import GaneshChalisa from "./pages/GaneshChalisa";
 
 
 function App() {
@@ -23,8 +24,18 @@ function App() {
 
       <HomaePage />
       <SecondaryPage />
-      <DisplayPage />
+      {/* <DisplayPage /> */}
       <GaneshArti/>
+      <KaliArti/>
+      <HanumanArti/>
+      <DurgaArti/>
+      <ShivArti/>
+      <JagdishArti/>
+      <KrishnaArti/>
+      <SaraswatiArti/>
+      <BhariavArti/>
+      <LakshmiArti/>
+      <GaneshChalisa/>
 
 
       
