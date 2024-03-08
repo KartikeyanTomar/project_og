@@ -81,7 +81,7 @@ export default function SecondaryPage() {
             <section className="aartibox">
                 <div className="other-container">
                     <div className="content-heading">
-                        <h1 className="section-heading-primary-content">Hanuman Chalisa</h1>
+                        <h1 className="section-heading-primary-content">श्री गणेश जी की आरती</h1>
                     </div>
                     <div className="aarti-options">
                         <div className="aarti-cards">
@@ -98,6 +98,7 @@ export default function SecondaryPage() {
                           <ConstentCard
                           content="
 || श्री गणेश जी की आरती ||
+
 जय गणेश जय गणेश,जय गणेश देवा ।
 माता जाकी पार्वती,पिता महादेवा ॥
 एक दंत दयावंत,चार भुजा धारी ।
@@ -122,6 +123,7 @@ export default function SecondaryPage() {
 माता जाकी पार्वती,पिता महादेवा ॥
 
 (Hinglish)
+
 Jai Ganesh Jai Ganesh,Jai Ganesh Deva ।
 Mata Jaki Parwati,Pita Maha Deva ॥
 Ek Dant Daya Want,Char Bhuuja Dhari ।

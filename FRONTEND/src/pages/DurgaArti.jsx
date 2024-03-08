@@ -81,7 +81,7 @@ export default function SecondaryPage() {
             <section className="aartibox">
                 <div className="other-container">
                     <div className="content-heading">
-                        <h1 className="section-heading-primary-content">Hanuman Chalisa</h1>
+                        <h1 className="section-heading-primary-content">माँ दुर्गा आरती</h1>
                     </div>
                     <div className="aarti-options">
                         <div className="aarti-cards">
@@ -97,7 +97,7 @@ export default function SecondaryPage() {
                         <div className="content-box">
                           <ConstentCard
                           content="
-|**| माँ दुर्गा आरती ||**
+|| माँ दुर्गा आरती ||
 
 जय अम्बे गौरी, मैया जय श्यामा गौरी।
 

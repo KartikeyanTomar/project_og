@@ -81,7 +81,7 @@ export default function SecondaryPage() {
             <section className="aartibox">
                 <div className="other-container">
                     <div className="content-heading">
-                        <h1 className="section-heading-primary-content">Hanuman Chalisa</h1>
+                        <h1 className="section-heading-primary-content">बजरंगबली की आरती</h1>
                     </div>
                     <div className="aarti-options">
                         <div className="aarti-cards">
@@ -97,7 +97,8 @@ export default function SecondaryPage() {
                         <div className="content-box">
                           <ConstentCard
                           content="
-|| **बजरंगबली की आरती ||**
+|| बजरंगबली की आरती ||
+
 आरती किजे हनुमान लला की |
 दुष्ट दलन रघुनाथ कला की ॥
 जाके बल से गिरवर काँपे |
@@ -126,9 +127,9 @@ export default function SecondaryPage() {
 तुलसीदास स्वामी किर्ती गाई ॥
 आरती किजे हनुमान लला की |
 दुष्ट दलन रघुनाथ कला की ॥
-**|| जय बजरंगबली | जय हनुमान | जय श्री राम | जय सीता राम ||**
+|| जय बजरंगबली | जय हनुमान | जय श्री राम | जय सीता राम ||
 
-|| **Aarti Hanuman Lala Ki ||**
+|| Aarti Hanuman Lala Ki ||
 Aarti Kije Hanuman Lala Ki ।
 Dusht Dalan Ragunath Kala Ki ॥
 Jake Bal Se Girivar Kanpe।

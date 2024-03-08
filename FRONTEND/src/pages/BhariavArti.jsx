@@ -81,7 +81,7 @@ export default function SecondaryPage() {
             <section className="aartibox">
                 <div className="other-container">
                     <div className="content-heading">
-                        <h1 className="section-heading-primary-content">Hanuman Chalisa</h1>
+                        <h1 className="section-heading-primary-content">भैरव बाबा जी की आरती</h1>
                     </div>
                     <div className="aarti-options">
                         <div className="aarti-cards">
@@ -98,6 +98,7 @@ export default function SecondaryPage() {
                           <ConstentCard
                           content="
 || भैरव बाबा जी की आरती || 
+
 जय भैरव देवा, प्रभु जय भैरव देवा ।
 जय काली और गौर देवी कृत सेवा ॥
 ॥ जय भैरव देवा...॥
@@ -121,6 +122,7 @@ export default function SecondaryPage() {
 ॥ जय भैरव देवा...॥
 
 || Bhairav Baba Ji Ki Aarti ||
+
 Jai Bhairav Deva, Prabhu Jai Bhairav Deva।
 Jai Kali Aur Gaura devi Karat Seva॥
 ॥Jai Bhairav Deva...॥

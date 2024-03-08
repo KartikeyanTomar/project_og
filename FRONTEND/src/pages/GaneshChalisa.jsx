@@ -81,7 +81,7 @@ export default function SecondaryPage() {
             <section className="aartibox">
                 <div className="other-container">
                     <div className="content-heading">
-                        <h1 className="section-heading-primary-content">Hanuman Chalisa</h1>
+                        <h1 className="section-heading-primary-content">श्री गणेश चालीसा</h1>
                     </div>
                     <div className="aarti-options">
                         <div className="aarti-cards">
@@ -103,8 +103,10 @@ export default function SecondaryPage() {
 जय गणपति सदगुण सदन, कविवर बदन कृपाल।
 विघ्न हरण मंगल करण, जय जय गिरिजालाल॥
 
-E:= हे सद्गुणों के सदन भगवान श्री गणेश आपकी जय हो, कवि भी आपको कृपालु 
-बताते हैं। आप कष्टों का हरण कर सबका कल्याण करते हो, माता पार्वती के लाडले 
+E:= हे सद्गुणों के सदन भगवान श्री गणेश आपकी जय हो, 
+कवि भी आपको कृपालु 
+बताते हैं। आप कष्टों का हरण कर सबका कल्याण करते हो, 
+माता पार्वती के लाडले 
 श्री गणेश जी महाराज आपकी जय हो।
 
   
@@ -262,10 +264,14 @@ E:= जब भगवान शंकर ने कार्तिकेय व
 भजत रामसुन्दर प्रभुदासा। जग प्रयाग, ककरा, दुर्वासा॥
 अब प्रभु दया दीना पर कीजै। अपनी शक्ति भक्ति कुछ दीजै॥
 
-E:= हे भगवान श्री गणेश आपकी बुद्धि व महिमा का गुणगान तो हजारों मुखों से भी नहीं किया 
-जा सकता। हे प्रभु मैं तो मूर्ख हूं, पापी हूं, दुखिया हूं मैं किस विधि से आपकी विनय आपकी 
-प्रार्थना करुं। हे प्रभु आपका दास रामसुंदर आपका ही स्मरण करता है। इसकी दुनिया तो प्रयाग 
-का ककरा गांव हैं जहां पर दुर्वासा जैसे ऋषि हुए हैं। हे प्रभु दीन दुखियों पर अब दया करो और 
+E:= हे भगवान श्री गणेश आपकी बुद्धि व 
+महिमा का गुणगान तो हजारों मुखों से भी नहीं किया 
+जा सकता। हे प्रभु मैं तो मूर्ख हूं, पापी हूं, 
+दुखिया हूं मैं किस विधि से आपकी विनय आपकी 
+प्रार्थना करुं। हे प्रभु आपका दास रामसुंदर 
+आपका ही स्मरण करता है। इसकी दुनिया तो प्रयाग 
+का ककरा गांव हैं जहां पर दुर्वासा जैसे ऋषि हुए हैं। 
+हे प्रभु दीन दुखियों पर अब दया करो और 
 अपनी शक्ति व अपनी भक्ति देनें की कृपा करें।
 
   
@@ -277,9 +283,12 @@ E:= हे भगवान श्री गणेश आपकी बुद्�
 सम्बन्ध अपने सहस्त्र दश, ऋषि पंचमी दिनेश।
 पूरण चालीसा भयो, मंगल मूर्ती गणेश॥
 
-E:= श्री गणेश की इस चालीसा का जो ध्यान से पाठ करते हैं। उनके घर में हर रोज सुख शांति आती 
-रहती है उसे जगत में अर्थात अपने समाज में प्रतिष्ठा भी प्राप्त होती है। सहस्त्र यानि हजारों संबंधों का 
-निर्वाह करते हुए भी ऋषि पंचमी ( गणेश चतुर्थी से अगले दिन यानि भाद्रप्रद माह के शुक्ल पक्ष की पंचमी ) 
+E:= श्री गणेश की इस चालीसा का जो ध्यान से पाठ करते हैं। 
+उनके घर में हर रोज सुख शांति आती 
+रहती है उसे जगत में अर्थात अपने समाज में प्रतिष्ठा भी प्राप्त होती है। 
+सहस्त्र यानि हजारों संबंधों का 
+निर्वाह करते हुए भी ऋषि पंचमी 
+( गणेश चतुर्थी से अगले दिन यानि भाद्रप्रद माह के शुक्ल पक्ष की पंचमी ) 
 के दिन भगवान श्री गणेश की यह चालीसा पूरी हुई।
 
 
@@ -290,18 +299,22 @@ Kavivar Badan Kripaal,
 Vighna Haran Mangal Karan,
 Jai Jai Girijaalaal
 
-E:= Glory, glory, glory to you, O Ganesha; the whole world pays 
-homage to you for you are the charming son of Shiva and the delight 
-of Gauri and the destroyer of all suffering, pain, and difficulties.
+E:= Glory, glory, glory to you, 
+O Ganesha; the whole world pays 
+homage to you for you are the 
+charming son of Shiva and the delight 
+of Gauri and the destroyer of all 
+suffering, pain, and difficulties.
 
 Jai Jai Jai Ganapati Ganaraaju,
 Mangal Bharana Karana Shubha Kaajuu,
 Jai Gajbadan Sadan Sukhdaata,
 Vishva Vinaayaka Buddhi Vidhaataa
 
-E:= Victory to you the son of Gauri and Shiva; you are the destroyer 
-of all fear and worries. Victory be yours in all battles of happiness 
-and safety of all. You are the remover of all ignorance and the giver 
+E:= Victory to you the son of Gauri and Shiva; 
+you are the destroyer of all fear and worries. 
+Victory be yours in all battles of happiness and safety of all. 
+You are the remover of all ignorance and the giver 
 of wisdom, knowledge, and intellect.
 
 VakraTunda Shuchi Shunda Suhaavana,
@@ -309,9 +322,11 @@ Tilaka Tripunda bhaal Man Bhaavan,
 Raajata Mani Muktana ura maala,
 Swarna Mukuta Shira Nayana Vishaalaa
 
-E:= O Ganesha, you carry a huge tusk on your elephant face and your sacred 
-trunk is well-adorned. The crescent-shaped triple mark on your forehead is 
-beautiful like the moon and the men, warriors, and saints who behold your 
+E:= O Ganesha, you carry a huge tusk 
+on your elephant face and your sacred trunk is well-adorned. 
+The crescent-shaped triple mark on your forehead is 
+beautiful like the moon and the men, 
+warriors, and saints who behold your 
 loveliness cannot ignore its spell.
 
 Pustak Paani Kuthaar Trishuulam,
@@ -319,27 +334,35 @@ Modaka Bhoga Sugandhit Phuulam,
 Sundara Piitaambar Tana Saajit,
 Charana Paadukaa Muni Man Raajit
 
-E:= You wear a garland of jewels and your eyes are like a fully-bloomed 
-lotus flower and your head is adorned with a jeweled crown. You, Ganesha, 
-give freedom to your devotees from worries and stress. You carry a trident 
-and axe in your hands and your favorites are ladoos and scented flowers.
+E:= You wear a garland of jewels and 
+your eyes are like a fully-bloomed 
+lotus flower and your head is adorned 
+with a jeweled crown. You, Ganesha, 
+give freedom to your devotees from worries and stress. 
+You carry a trident and axe in your hands and your 
+favorites are ladoos and scented flowers.
 
 Dhani Shiva Suvan Shadaanana Bhraataa,
 Gaurii Lalan Vishva-Vikhyaata,
 Riddhi Siddhi Tav Chanvar Sudhaare,
 Mooshaka Vaahan Sohat Dvaare
 
-E:= Dressed in yellow silk and adorned with jewel-studded wooden sandals, 
-O Lord Ganesha, the giver of happiness and peace to the world, you are the 
-son of Shiva and Parvati and the brother of Kartikeya. You are great.
+E:= Dressed in yellow silk and adorned 
+with jewel-studded wooden sandals, 
+O Lord Ganesha, the giver of happiness 
+and peace to the world, you are the 
+son of Shiva and Parvati and the 
+brother of Kartikeya. You are great.
 
 Kahaun Janma Shubh Kathaa Tumhari,
 Ati Shuchi Paavan Mangalkaarii,
 Ek Samay Giriraaj Kumaarii,
 Putra Hetu Tapa Kiinhaa Bhaarii
 
-E:= Prosperity and Accomplishment serve you with fans while your vehicle 
-of mouse adds splendor. For the strange, mysterious story of your birth, 
+E:= Prosperity and Accomplishment serve 
+you with fans while your vehicle 
+of mouse adds splendor. For the strange, 
+mysterious story of your birth, 
 who can describe your greatness?
 
 Bhayo Yagya Jaba Poorana Anupaa,
@@ -347,8 +370,10 @@ Taba Pahunchyo Tuma Dhari Dvija Rupaa,
 Atithi Jaani Kay Gaurii Sukhaarii,
 Bahu Vidhi Sevaa Karii Tumhaarii
 
-E:= A demon, disguised as Shiva, tried to delude mother Gauri who molded 
-you a divine form from the scurf of her body to foil the demon’s attempts.
+E:= A demon, disguised as Shiva, 
+tried to delude mother Gauri who molded 
+you a divine form from the scurf of 
+her body to foil the demon’s attempts.
 
 Ati Prasanna Hvai Tum Vara Diinhaa,
 Maatu Putra Hit Jo Tap Kiinhaa,

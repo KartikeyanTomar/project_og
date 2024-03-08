@@ -25,16 +25,16 @@ function App() {
       <HomaePage />
       <SecondaryPage />
       {/* <DisplayPage /> */}
-      <GaneshArti/>
-      <KaliArti/>
-      <HanumanArti/>
-      <DurgaArti/>
-      <ShivArti/>
-      <JagdishArti/>
-      <KrishnaArti/>
-      <SaraswatiArti/>
       <BhariavArti/>
+      <DurgaArti/>
+      <GaneshArti/>
+      <HanumanArti/>
+      <JagdishArti/>
+      <KaliArti/>
+      <KrishnaArti/>
       <LakshmiArti/>
+      <SaraswatiArti/>
+      <ShivArti/>
       <GaneshChalisa/>
 
 

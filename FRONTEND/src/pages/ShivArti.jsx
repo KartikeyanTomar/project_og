@@ -81,7 +81,7 @@ export default function SecondaryPage() {
             <section className="aartibox">
                 <div className="other-container">
                     <div className="content-heading">
-                        <h1 className="section-heading-primary-content">Hanuman Chalisa</h1>
+                        <h1 className="section-heading-primary-content">शिव जी की आरती</h1>
                     </div>
                     <div className="aarti-options">
                         <div className="aarti-cards">
@@ -97,107 +97,107 @@ export default function SecondaryPage() {
                         <div className="content-box">
                           <ConstentCard
                           content="
-|| ****शिव जी की आरती ||****
+|| शिव जी की आरती ||
 
-( ****ॐ जय शिव ओंकारा )****
+( ॐ जय शिव ओंकारा )
 
-**जय शिव ओंकारा ॐ जय शिव ओंकारा ।**
+जय शिव ओंकारा ॐ जय शिव ओंकारा ।
 
-**ब्रह्मा विष्णु सदा शिव अर्द्धांगी धारा ॥ ॐ जय शिव…॥**
+ब्रह्मा विष्णु सदा शिव अर्द्धांगी धारा ॥ ॐ जय शिव…॥
 
-**एकानन चतुरानन पंचानन राजे ।**
+एकानन चतुरानन पंचानन राजे ।
 
-**हंसानन गरुड़ासन वृषवाहन साजे ॥ ॐ जय शिव…॥**
+हंसानन गरुड़ासन वृषवाहन साजे ॥ ॐ जय शिव…॥
 
-**दो भुज चार चतुर्भुज दस भुज अति सोहे।**
+दो भुज चार चतुर्भुज दस भुज अति सोहे।
 
-**त्रिगुण रूपनिरखता त्रिभुवन जन मोहे ॥ ॐ जय शिव…॥**
+त्रिगुण रूपनिरखता त्रिभुवन जन मोहे ॥ ॐ जय शिव…॥
 
-**अक्षमाला बनमाला रुण्डमाला धारी ।**
+अक्षमाला बनमाला रुण्डमाला धारी ।
 
-**चंदन मृगमद सोहै भाले शशिधारी ॥ ॐ जय शिव…॥**
+चंदन मृगमद सोहै भाले शशिधारी ॥ ॐ जय शिव…॥
 
-**श्वेताम्बर पीताम्बर बाघम्बर अंगे ।**
+श्वेताम्बर पीताम्बर बाघम्बर अंगे ।
 
-**सनकादिक गरुणादिक भूतादिक संगे ॥ ॐ जय शिव…॥**
+सनकादिक गरुणादिक भूतादिक संगे ॥ ॐ जय शिव…॥
 
-**कर के मध्य कमंडलु चक्र त्रिशूल धर्ता ।**
+कर के मध्य कमंडलु चक्र त्रिशूल धर्ता ।
 
-**जगकर्ता जगभर्ता जगसंहारकर्ता ॥ ॐ जय शिव…॥**
+जगकर्ता जगभर्ता जगसंहारकर्ता ॥ ॐ जय शिव…॥
 
-**ब्रह्मा विष्णु सदाशिव जानत अविवेका ।**
+ब्रह्मा विष्णु सदाशिव जानत अविवेका ।
 
-**प्रणवाक्षर मध्ये ये तीनों एका ॥ ॐ जय शिव…॥**
+प्रणवाक्षर मध्ये ये तीनों एका ॥ ॐ जय शिव…॥
 
-**काशी में विश्वनाथ विराजत नन्दी ब्रह्मचारी ।**
+काशी में विश्वनाथ विराजत नन्दी ब्रह्मचारी ।
 
-**नित उठि भोग लगावत महिमा अति भारी ॥ ॐ जय शिव…॥**
+नित उठि भोग लगावत महिमा अति भारी ॥ ॐ जय शिव…॥
 
-**त्रिगुण शिवजीकी आरती जो कोई नर गावे ।**
+त्रिगुण शिवजीकी आरती जो कोई नर गावे ।
 
-**कहत शिवानन्द स्वामी मनवांछित फल पावे ॥ ॐ जय शिव…॥**
+कहत शिवानन्द स्वामी मनवांछित फल पावे ॥ ॐ जय शिव…॥
 
-**जय शिव ओंकारा हर ॐ शिव ओंकारा|**
+जय शिव ओंकारा हर ॐ शिव ओंकारा|
 
-**ब्रह्मा विष्णु सदाशिव अद्धांगी धारा॥ ॐ जय शिव ओंकारा…॥**
+ब्रह्मा विष्णु सदाशिव अद्धांगी धारा॥ ॐ जय शिव ओंकारा…॥
 
-|| ****Shiv Ji Ki Aarti ||****
+|| ShivJi Ki Aarti ||
 
-**Jai Shiv Omkara Om Jai Shiv Omkara,**
+Jai Shiv Omkara Om Jai Shiv Omkara,
 
 Brahma Vishnu Sadashiv, Arddhaangi Dhara.
 
 Om Jai Shiv Omkara.
 
-**Ekanaan Chaturanan Panchanan Raaje,**
+Ekanaan Chaturanan Panchanan Raaje,
 
 Hansaanan Garudaasan Vrishvahan Saaje.
 
 Om Jai Shiv Omkara.
 
-**Do Bhuj Chaar Chaturbhuj Das Bhuj Ati Sohe,**
+Do Bhuj Chaar Chaturbhuj Das Bhuj Ati Sohe,
 
 Trigun Roopa Nirakhata Tribhuvan Jan Moha.
 
 Om Jai Shiv Omkara.
 
-**Akshamaala Vanamaala Runaamala Dhari,**
+Akshamaala Vanamaala Runaamala Dhari,
 
 Chandan Mrigamad Sohe Bhale Shashi Dhari.
 
 Om Jai Shiv Omkara.
 
-**Shwetaambara Peetaambara Baaghamabara Ange,**
+Shwetaambara Peetaambara Baaghamabara Ange,
 
 Sanakaadika Garudaadika Bhootaadika Sange.
 
 Om Jai Shiv Omkara.
 
-**Karke Madhye Kamandalu Chakra Trishul Dharta,**
+Karke Madhye Kamandalu Chakra Trishul Dharta,
 
 Jagakarta Jagabhartaa Jagasanharta.
 
 Om Jai Shiv Omkara.
 
-**Brahma Vishnu Sadashiv Jaanata Aviveka,**
+Brahma Vishnu Sadashiv Jaanata Aviveka,
 
 Pranavaakshara Madhye Ye Teeno Eka.
 
 Om Jai Shiv Omkara.
 
-**Kaashi Mein Vishwanath Virajat Nandi Brahmachaari,**
+Kaashi Mein Vishwanath Virajat Nandi Brahmachaari,
 
 Nit Uthi Bhog Lagavat Mahima Ati Bhaari.
 
 Om Jai Shiv Omkara.
 
-**Trigun Shivji Ki Aarti Jo Koi Nar Gaave,**
+Trigun Shivji Ki Aarti Jo Koi Nar Gaave,
 
 Kahat Shivanand Swami Manavaanchhit Phal Paave.
 
 Om Jai Shiv Omkara.
 
-**Jai Shiv Omkara Har Omkara,**
+Jai Shiv Omkara Har Omkara,
 
 Brahma Vishnu Sadashiv, Arddhaangi Dhara.
 
